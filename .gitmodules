@@ -25,3 +25,6 @@
 [submodule "TypeScript/Sairyss"]
 	path = ts/Sairyss
 	url = git@github.com:Sairyss/domain-driven-hexagon.git
+[submodule "csharp/clean-architecture-manga"]
+	path = csharp/clean-architecture-manga
+	url = git@github.com:ivanpaulovich/clean-architecture-manga.git
