@@ -1,0 +1,27 @@
+[submodule "csharp/amantinband"]
+	path = csharp/amantinband
+	url = git@github.com:amantinband/clean-architecture.git
+[submodule "csharp/ardalis"]
+	path = csharp/ardalis
+	url = git@github.com:ardalis/CleanArchitecture.git
+[submodule "csharp/jasontaylordev"]
+	path = csharp/jasontaylordev
+	url = git@github.com:jasontaylordev/CleanArchitecture.git
+[submodule "csharp/kgrzybek"]
+	path = csharp/kgrzybek
+	url = git@github.com:kgrzybek/sample-dotnet-core-cqrs-api.git
+[submodule "csharp/fals"]
+	path = csharp/fals
+	url = git@github.com:fals/cqrs-clean-eventual-consistency.git
+[submodule "csharp/EasyDesk"]
+	path = csharp/EasyDesk
+	url = git@github.com:EasyDesk/easydesk-clean-architecture.git
+[submodule "csharp/Genocs"]
+	path = csharp/Genocs
+	url = git@github.com:Genocs/clean-architecture-template.git
+[submodule "go/bxcodec"]
+	path = go/bxcodec
+	url = git@github.com:bxcodec/go-clean-arch.git
+[submodule "TypeScript/Sairyss"]
+	path = ts/Sairyss
+	url = git@github.com:Sairyss/domain-driven-hexagon.git
