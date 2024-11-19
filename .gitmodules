@@ -28,3 +28,6 @@
 [submodule "csharp/clean-architecture-manga"]
 	path = csharp/clean-architecture-manga
 	url = git@github.com:ivanpaulovich/clean-architecture-manga.git
+[submodule "csharp/eShopOnWeb"]
+	path = csharp/eShopOnWeb
+	url = git@github.com:NimblePros/eShopOnWeb.git
